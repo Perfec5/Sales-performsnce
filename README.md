@@ -1,3 +1,4 @@
+
 # Sales Performance Analysis
 ![th](https://github.com/user-attachments/assets/63b6842d-7243-447b-aace-8455b25887df)
 ### Content
@@ -52,6 +53,17 @@ Reduce Loss Rates: Focus on categories with high loss rates to improve profitabi
 Inventory Optimization: Adjust inventory based on sales trends to align with demand.
 
 Targeted Promotions: Boost sales during low-performing months through targeted marketing.
+
+Add Profitability Metrics:
+Include profit margin and net profit views in the dashboard to evaluate the real value of top-selling items.
+
+Implement Real-Time Monitoring:
+Set up alerts in Power BI for sudden spikes in loss rates by category or time period.
+
+Rethink Marketing and Bundling Strategies:
+Bundle high-risk, high-sales items with fast-moving ones to reduce inventory loss and increase turnover.
+
+
 
 # DASHBOARD
 
